@@ -1,8 +1,11 @@
-name: Build on Release
+name: Build Docker Image
 
 on:
+  workflow_dispatch:
+    # Manual trigger
   release:
     types: [created]
+    # Automatic trigger on release creation
 
 jobs:
   build:
