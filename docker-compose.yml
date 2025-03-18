@@ -1,0 +1,7 @@
+services:
+  saucekudasai:
+    image: ghcr.io/marcus7i/saucekudasai:latest
+    container_name: saucekudasai
+    restart: unless-stopped
+    ports:
+      - "3006:3006"
