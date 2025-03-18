@@ -1,6 +1,6 @@
 {
 	"name": "saucekudasai",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"private": true,
 	"description": "A Anime search engine that fetches anime info based on the image provided.",
 	"keywords": [
