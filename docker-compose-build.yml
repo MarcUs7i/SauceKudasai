@@ -4,5 +4,4 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "3006:3006"
-    command: "npm start"
+      - "3000:3000"
