@@ -4,4 +4,4 @@ services:
     container_name: saucekudasai
     restart: unless-stopped
     ports:
-      - "3006:3006"
+      - "3000:3000"
