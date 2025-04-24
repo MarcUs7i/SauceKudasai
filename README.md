@@ -18,7 +18,7 @@
 
 ```sh
 npm install
-npm run getsauce
+npm run dev
 ```
 
 ## Deployment via docker:
