@@ -10,7 +10,7 @@ const Footer = styled.footer`
 	position: absolute;
 	bottom: 0.5rem;
 	font-size: 0.8rem;
-	color: #000;
+	color: var(--text-color);
 	font-weight: var(--semi-bold);
 
 	a {

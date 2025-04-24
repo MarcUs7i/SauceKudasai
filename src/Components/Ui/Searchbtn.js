@@ -10,7 +10,7 @@ const Search = styled.button`
 	background: var(--lavender);
 	font-family: inherit;
 	font-weight: var(--semi-medium);
-	color: #000;
+	color: var(--text-color);
 	border-radius: calc(var(--radius) * 2);
 	margin-top: 0.5rem;
 	letter-spacing: 0;

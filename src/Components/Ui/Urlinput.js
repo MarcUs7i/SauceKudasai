@@ -33,7 +33,7 @@ const Url = styled(motion.input)`
 	padding: 0rem 2.5rem;
 	height: 40px;
 	font-family: inherit;
-	color: #000;
+	color: var(--text-color);
 	border-radius: calc(var(--radius) * 2);
 	font-size: 1rem;
 	&::placeholder {

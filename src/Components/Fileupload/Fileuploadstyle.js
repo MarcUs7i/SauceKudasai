@@ -4,15 +4,14 @@ import styled from 'styled-components';
 import { respondTo } from '../../styles/mixins';
 
 export const Container = styled.div`
-	background: var(--primary);
+	background: var(--container-bg);
 	width: 88%;
 	height: 310px;
 	padding: 1.3rem;
 	padding-bottom: 0.5rem;
 	margin: 1.5em auto;
 	text-align: center;
-	background: #ffffff;
-	box-shadow: 0px 5px 29px -4px rgba(0, 0, 0, 0.25), inset 0px 1px 5px rgba(0, 0, 0, 0.25);
+	box-shadow: var(--box-shadow);
 	border-radius: 30px;
 
 	& p {

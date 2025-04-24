@@ -36,7 +36,7 @@ const Navbar = styled.nav`
 const Title = styled.h1`
 	font-size: 1rem;
 	font-weight: var(--medium);
-	color: #000;
+	color: var(--text-color);
 
 	${respondTo.lg`
 		font-size: 1.2rem;
@@ -53,7 +53,7 @@ const index = () => {
 					target="_blank"
 					rel="noreferrer"
 					aria-label="Github link">
-					<IconContext.Provider value={{ size: '1.4rem', color: '#000000' }}>
+					<IconContext.Provider value={{ size: '1.4rem', color: '#e0e0e0' }}>
 						<BsGithub />
 					</IconContext.Provider>
 				</a>
