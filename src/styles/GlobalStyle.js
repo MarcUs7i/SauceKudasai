@@ -9,11 +9,11 @@ export const GlobalStyle = createGlobalStyle`
 		--lavenderlight: #1a1a2e;
 		--lightblue: #738aff;
 		--link: #738aff;
-		--nav: #1a1a2a;
+		--nav:#2d2d47;
 		--cardbg: #121212;
 		--Styledlinks: #738aff;
 		--text-color: #e0e0e0;
-		--container-bg: #1f1f2c;
+		--container-bg:#2d2d47;
 		--drop-container-bg: #1a1a2e;
 		--search-container-bg: #1a1a2a;
 

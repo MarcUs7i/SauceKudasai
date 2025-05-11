@@ -27,7 +27,7 @@ const Dropcontainer = styled.div`
 	${respondTo.lg`
 		height: 78%;
 		border-radius: 25px;
-		margin: 0.8rem 1.5rem;
+		margin: 0.4rem 1.5rem;
 	`}
 `;
 
