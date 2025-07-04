@@ -49,7 +49,7 @@ const index = () => {
 			<Navbar>
 				<Title>SauceKudasai</Title>
 				<a
-					href="https://github.com/MarcUs7i/SauceKudasai"
+					href="https://github.com/Kizuren/SauceKudasai"
 					target="_blank"
 					rel="noreferrer"
 					aria-label="Github link">

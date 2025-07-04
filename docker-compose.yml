@@ -1,6 +1,6 @@
 services:
   saucekudasai:
-    image: ghcr.io/marcus7i/saucekudasai:latest
+    image: ghcr.io/kizuren/saucekudasai:latest
     container_name: saucekudasai
     restart: unless-stopped
     ports:

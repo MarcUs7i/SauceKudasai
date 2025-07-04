@@ -36,6 +36,6 @@ docker compose -f docker-compose-build.yml up -d
 ## Author
 
 Original: **[Ayush Gupta](https://github.com/ayushgptaa)**<br>
-Modified by: **[MarcUs7i](https://github.com/MarcUs7i)**
+Modified by: **[Kizuren](https://github.com/Kizuren)**
 
 Original repository: https://github.com/ayushgptaa/SauceKudasai
